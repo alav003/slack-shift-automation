@@ -11,6 +11,18 @@ Built to replace manual, unstructured text updates during facility shifts with a
 * **API Integration:** Structures multi-level JSON payloads sent via `Invoke-RestMethod` HTTP POST requests to Slack Incoming Webhook endpoints.
 * **Built-in Error Handling:** Employs `try/catch` blocks to capture and report network or API transmission failures directly in the terminal.
 
+## Execution & Output
+
+### PowerShell ISE & Code View
+![PowerShell View](Powershellview.png)
+
+### Terminal Execution
+![Script Interface Part 1](Script1.png)
+![Script Interface Part 2](Script2.png)
+
+### Slack Channel Output
+![Slack Output Card](Building%20Log%20Autiomation.png)
+
 ## How to Run
 1. Clone the repository and open PowerShell.
 2. Run the script:
