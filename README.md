@@ -13,10 +13,10 @@ Built to replace manual, unstructured text updates during facility shifts with a
 
 ## Execution & Output
 
-### PowerShell ISE & Code View
+### Terminal Execution
 ![PowerShell View](Powershellview.png)
 
-### Terminal Execution
+### PowerShell ISE & Code View
 ![Script Interface Part 1](Script1.png)
 ![Script Interface Part 2](Script2.png)
 
